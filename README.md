@@ -6,7 +6,7 @@ RE-TEST is the first horror game created by me, featuring exploration, puzzles, 
 
 ### Play the Game
 
-[**Play RE-TEST on itch.io**](https://jeongwongamedev.itch.io/re-test)
+[**RE-TEST on itch.io**](https://jeongwongamedev.itch.io/re-test)
 
 ### Availability
 
